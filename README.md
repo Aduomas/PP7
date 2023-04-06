@@ -10,7 +10,8 @@ The dataset used for this project can be found on Kaggle: [COVID-19 Radiography 
 First, install the required packages:
 
 ```bash
-!pip install -q kaggle```
+!pip install -q kaggle
+```
 
 ## Usage
 
